@@ -51,3 +51,9 @@ $ pyenv virtualenv 3.6.5 venv-3.6.5
 $ pyenv local venv-3.6.5
 (venv-3.6.5) $
 ```
+
+### pipをversion up
+
+```
+pip install --upgrade pip
+```
